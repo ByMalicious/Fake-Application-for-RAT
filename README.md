@@ -1,2 +1,2 @@
 # Welcome to Fake Application!
-! [] (Trailer.gif)
+[] (Trailer.gif)
